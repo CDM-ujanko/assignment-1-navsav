@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html> 
+    <head>
+    <link rel="stylesheet" type="text/css" href="assignment1.css"/>
+    <title>Assignment 1</title>
+    </head>
+    
+<body>
+        <p>First Assignmentt</p>
+    
+      <div>
+            <ul>
+                <li>I just got Married, hence why I haven't been in class yet!</li>
+                <li>I play video games for fun and also read.</li>
+            </ul>
+        </div>
+        <br>
+    <div class="ch2">
+        <h2>This text is a different size!</h2>
+    </div>
+</div>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="assignment1.js"></script>
+    </body>
+</html>
